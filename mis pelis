@@ -1,0 +1,21 @@
+<!DOCUTYPE html>
+  <head>
+    <meta charset="uft-8">
+    <title>Mi lista de pelis.</title>
+  </head>
+  <body>
+    <h1>Mis Pelis.</h1>
+    <ul>
+      <il>La vida es bella</il>
+      <il>Avatar</il>
+      <il>Cadenas de favores</il>
+      <il>Your Name</il>
+      <il>Wolf Children</il>
+      <il>A silent voice</il>
+      <il>SAW</il>
+      <il>Zodiac</il>
+      <il>Mulan</il>
+      <il>Wall-E</il>
+    </ul>
+  </body>
+</html>
